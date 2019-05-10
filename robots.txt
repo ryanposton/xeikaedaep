@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://niotongei.garden-house.co.uk/sitemap.xml
